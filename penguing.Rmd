@@ -1,9 +1,13 @@
 title: "Etude sur les manchots"
+<<<<<<< HEAD:manchots.Rmd
 <<<<<<< HEAD
 author: "Theo & Cie"
 =======
 author: "clement"
 >>>>>>> e54eb91e0829e4c93f3a86603b58fa9f0fed2de4
+=======
+author: "MP Etienne,Clement, Mathis"
+>>>>>>> 01fb793d7fd6128094598bf73020501d54ea9953:penguing.Rmd
 date: "9/2/2023"
 output: html_document 
 ---
