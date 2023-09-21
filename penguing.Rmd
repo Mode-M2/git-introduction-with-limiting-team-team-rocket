@@ -1,7 +1,6 @@
 title: "Etude sur les manchots"
-author: "clement"
-date: "9/2/2023"
-output: html_document 
+author: "MP Etienne,Clement, Mathis, Theo & Cie""
+
 ---
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣶⣿⣿⣷⣶⣄⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣾⣿⣿⡿⢿⣿⣿⣿⣿⣿⣿⣿⣷⣦⡀⠀⠀⠀⠀⠀
