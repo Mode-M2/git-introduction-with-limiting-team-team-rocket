@@ -1,5 +1,5 @@
 title: "Etude sur les manchots"
-author: "MP Etienne,Clement, Mathis, Theo & Cie""
+author: "MP Etienne,Clement, Mathis, Theo & Cie gntkctf""
 
 ---
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣶⣿⣿⣷⣶⣄⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
